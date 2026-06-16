@@ -1,4 +1,4 @@
-![XSS Proof of Concept](cpt.PNG)
+![XSS Proof of Concept](cptr.PNG)
 
 # Reflected XSS in jQuery 3.3.1 Application
 
