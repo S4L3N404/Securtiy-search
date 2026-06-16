@@ -1,6 +1,5 @@
 ![XSS Proof of Concept](cptr.PNG)
 
-
 # Reflected XSS in jQuery 3.3.1 Application
 
 **Date**: 2026-06-16
