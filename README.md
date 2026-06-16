@@ -1,4 +1,5 @@
-![XSS Proof of Concept](cptr.PNG)
+<img width="1344" height="802" alt="cptr" src="https://github.com/user-attachments/assets/27883b8a-100e-439a-bba6-b06ee395337b" />
+
 
 # Reflected XSS in jQuery 3.3.1 Application
 
